@@ -1,0 +1,9 @@
+{
+  "name": "fileviewer-sample",
+  "version": "0.0.1",
+  "dependencies" : {
+      "fh-webapp": "*",
+      "fh-api": "*",
+      "express": "*"
+  }
+}
